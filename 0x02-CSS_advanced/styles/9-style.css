@@ -49,6 +49,7 @@ h5,h6 {
 
 a {
     color: var(--text-color);
+    text-decoration: none;
 }
 
 /* Helper Classes */
