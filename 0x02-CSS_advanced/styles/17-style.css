@@ -28,11 +28,11 @@
     --section-title-margin: 0;
     --section-title-color: var(--color-black);
     --section-padding: 5rem 0;
-    --section-header-padding: 0, 0, 3rem;
-    --section-body-padding: 0, 0, 3rem;
-    --section-footer-padding: 3rem, 0, 0;
+    --section-header-padding: 0 0 3rem;
+    --section-body-padding: 0 0 3rem;
+    --section-footer-padding: 3rem 0 0;
     --section-footer-align: center;
-    --footer-padding: 5rem, 0, 1rem;
+    --footer-padding: 5rem 0 1rem;
 }
 
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
@@ -96,10 +96,9 @@ a:active {
     color: var(--color-primary);
 }
 
-/* Sections */
+/* Section */
 .section{
     padding: var(--section-padding);
-
 }
 
 .section-header {
