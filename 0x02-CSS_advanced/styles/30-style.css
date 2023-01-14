@@ -186,6 +186,7 @@ a:active {
 .card-work .card-inner {
     position: absolute;
     top: -0.1rem;
+    left: -0.1rem;
     right: -0.1rem;
     z-index: 1;
 }
@@ -212,9 +213,9 @@ a:active {
     content: '';
     position: absolute;
     top: 0;
-    right: 0;
     left: 0;
     bottom: 0;
+    right: 0;
 }
 
 .card-work:hover .card-title {
