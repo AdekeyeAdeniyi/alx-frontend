@@ -34,3 +34,8 @@ At the end of this project, you are expected to be able to [explain to anyone](/
 *   How to animate elements in CSS
 *   How to transform (2d, 3d) elements
 *   What vendor prefixes are
+
+## End product
+<p align="center">
+<img src="./images/screenshot.png" width="600px" >
+</p>
